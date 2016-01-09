@@ -1,8 +1,3 @@
-" SOURCES: 
-" https://help.ubuntu.com/community/VimHowto
-" http://dougblack.io/words/a-good-vimrc.html
-" http://vim.wikia.com/wiki/Example_vimrc
-
 " GENERAL
 " Indent automatically depending on filetype
 filetype indent on
