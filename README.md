@@ -17,9 +17,9 @@ Configuration files for Vim text editor.
 
 The settings in this repository were combined from:
 
-* [https://help.ubuntu.com/community/VimHowto]()
-* [http://dougblack.io/words/a-good-vimrc.html]()
-* [http://vim.wikia.com/wiki/Example_vimrc]()
+* https://help.ubuntu.com/community/VimHowto
+* http://dougblack.io/words/a-good-vimrc.html
+* http://vim.wikia.com/wiki/Example_vimrc
 
 ##License
 
